@@ -1,4 +1,4 @@
- <h1 align="center">We all will begin.</h1>
+ <h1 align="center">We will begin.</h1>
 <img margin="auto" src="https://discord.c99.nl/widget/theme-3/568474094157168640.png"/> 
 <!--
 **Mohammad-Alattar/Mohammad-Alattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
