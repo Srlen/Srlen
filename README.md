@@ -1,4 +1,4 @@
- <h1 align="center">We will begin.</h1>
+ <h1 align="center">Started.</h1>
  <p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/568474094157168640.png"/> 
 </p>
