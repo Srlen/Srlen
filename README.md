@@ -5,7 +5,7 @@
 <h1>About</h1>
 <h3>Leading a large community, I work with game developers, learning AI, Planning for big projects soon.</h3>
 <h3> I'm a person with multiple personalities.</h3>
-<h3> Currently mastering in BinaryTrees, IT, FullStack, algorithms </h3> 
+<h3> Currently mastering in Data Structures, IT, FullStack, algorithms </h3> 
 <h2>Languages & Tools Experience</h2>
 <p align="center">
   <a href="https://skillicons.dev">
