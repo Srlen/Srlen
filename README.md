@@ -9,7 +9,7 @@
 <h2>Languages & Tools I used to love</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,rust,py,flask,fastapi,django,react,nextjs,svelte,electron,materialui,bootstrap,discord,docker,heroku,express,nestjs,figma,git,github,cs,java,mysql,sqlite,postgres,tauri,prisma,unreal,vscode,atom,vim,bots&perline=13" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,rust,py,flask,fastapi,django,react,nextjs,vue,svelte,electron,materialui,bootstrap,discord,docker,heroku,express,nestjs,figma,git,github,cs,java,mysql,sqlite,postgres,tauri,prisma,unreal,vscode,atom,vim,bots&perline=13" />
   </a>
 </p>
 <hr/>
