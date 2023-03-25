@@ -32,14 +32,14 @@ Developer, Thinker
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/568474094157168640" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mohammad-Alattar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/568474094157168640" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MSrlen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mohammad-Alattar"><img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Alattar&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Mohammad-Alattar's GitHub stats" /></a>
+<a href="http://www.github.com/Srlen"><img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Alattar&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Mohammad-Alattar's GitHub stats" /></a>
 
-<a href="http://www.github.com/Mohammad-Alattar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Alattar&stroke=3382ed&background=181824&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/Srlen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Alattar&stroke=3382ed&background=181824&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/Mohammad-Alattar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Alattar&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Srlen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Alattar&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
