@@ -35,8 +35,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
+<div align="center">
+  <div style="display: flex;">
 <a href="http://www.github.com/Srlen"><img src="https://github-readme-stats.vercel.app/api?username=Srlen&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Mohammad-Alattar's GitHub stats" /></a>
 
 <a href="http://www.github.com/Srlen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Srlen&stroke=3382ed&background=181824&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="https://github.com/Srlen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srlen&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div>
+</div>
