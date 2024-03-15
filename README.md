@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mohammad, AKA Srlen</h1>
 <h3 align="center">A fullstack developer from kuwait</h3>
 
 <h3 align="left">Connect with me:</h3>
